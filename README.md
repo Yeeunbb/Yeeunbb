@@ -1,6 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=200&section=header&text=Hi!%20I'mYeeun🥰&fontAlignY=30&fontSize=40)
-
-
 [![Blog](https://img.shields.io/badge/Blog-EF2D5E?style=flat-square&logo=Blogger&logoColor=white&link=www.naver.com)](https://yeeunbb.github.io/)  <img src="https://img.shields.io/badge/ykoou3040@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 
 ### Hi there 👋
